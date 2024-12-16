@@ -1,0 +1,3 @@
+[submodule "Calculator"]
+	path = Calculator
+	url = https://github.com/5heron/Calculator-apk.git

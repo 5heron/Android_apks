@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_margin="5dp"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#5584CEF0"
+    android:padding="20dp"
+    android:textSize="18sp"
+    android:textColor="#E42172"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="48sp"
+        android:text="User Name"
+        android:background="#569EDE"
+        android:gravity="center"
+        android:layout_marginHorizontal="20dp"
+        />
+    <EditText
+        android:id="@+id/uname"
+        android:layout_width="match_parent"
+        android:layout_height="48sp"
+        android:hint="username"
+        android:inputType="text"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="48sp"
+        android:text="Password"
+        android:background="#569EDE"
+        android:gravity="center"
+        android:layout_margin="20dp"/>
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="48sp"
+        android:hint="Password"
+        android:inputType="text"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/loginbut"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#91D1B0"
+        android:text="Login"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/gotobut"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#aabbcc"
+        android:text="Go to register"/>
+</LinearLayout>
