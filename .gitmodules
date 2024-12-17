@@ -1,3 +1,6 @@
 [submodule "Calculator"]
 	path = Calculator
 	url = https://github.com/5heron/Calculator-apk.git
+[submodule "EmployeeManagement"]
+	path = EmployeeManagement
+	url = https://github.com/5heron/EmployeeManagement.git
