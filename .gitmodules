@@ -4,3 +4,6 @@
 [submodule "EmployeeManagement"]
 	path = EmployeeManagement
 	url = https://github.com/5heron/EmployeeManagement.git
+[submodule "MovieApp"]
+	path = MovieApp
+	url = https://github.com/5heron/MovieApp.git
