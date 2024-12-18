@@ -7,3 +7,12 @@
 [submodule "MovieApp"]
 	path = MovieApp
 	url = https://github.com/5heron/MovieApp.git
+[submodule "FacebookApk"]
+	path = FacebookApk
+	url = https://github.com/5heron/FacebookApk.git
+[submodule "FacebookUI"]
+	path = FacebookUI
+	url = https://github.com/5heron/FacebookApk.git
+[submodule "FoodActivity"]
+	path = FoodActivity
+	url = https://github.com/5heron/FoodApp.git
